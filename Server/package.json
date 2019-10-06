@@ -1,0 +1,16 @@
+{
+  "name": "notification",
+  "version": "1.0.0",
+  "description": "This is server application of notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "jslogger"
+  ],
+  "author": "shivam shukla",
+  "license": "ISC"
+}
